@@ -6,6 +6,27 @@ body {
   text-align: center;
 }
 
+header {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin: 3%;
+  padding: 0%;
+  font-size: 200%;
+}
+
+#tyounodairi {
+  width: 274px;
+height: 554px
+}
+
+img {
+  margin: 0%;
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+}
 
 table {
   font-size: 180%;
@@ -17,11 +38,6 @@ table {
   margin-left: 30%;
 }
 
-
-img {
-width: 274px;
-height: 554px
-}
 
 #rink {
   text-align: center;
@@ -45,5 +61,4 @@ hr {
   border-style: dashed;
     margin: 0 8% 0 8%;
 }
-
 
